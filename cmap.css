@@ -96,7 +96,7 @@ body:not(.editing) .cmap td.spc       a { background: #ECF5F4; }
 body:not(.editing) .cmap td.revision  a { background: #ECF5F4; }
 body:not(.editing) .cmap td.elective  a { background: #ECF5F4; }
 body:not(.editing) .cmap td.epib      a { background: #ECF5F4; }
-body:not(.editing) .cmap td.cb        a { background: #004E49; }
+body:not(.editing) .cmap td.cb        a { background: #8DD3CB; }
 body:not(.editing) .cmap td.empty     a { background: #ECF5F4; }
 
 

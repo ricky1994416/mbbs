@@ -33,13 +33,13 @@ body:not(.editing) .cmap table {
 }
 body:not(.editing) .cmap td { padding: 0; }
 body:not(.editing) .cmap table,
-body:not(.editing) .cmap td { border: solid 1px black; }
+body:not(.editing) .cmap td { border: solid 1px white; }
 body:not(.editing) .cmap td.spc-block { border: none; }
 
 
 /* block table */
 body:not(.editing) .cmap tbody td { font-size: .85rem; }
-body:not(.editing) .cmap tbody td a { color: white !important; }
+body:not(.editing) .cmap tbody td a { color: black !important; }
 body:not(.editing) .cmap tbody td > a,
 body:not(.editing) .cmap tbody td > span {
 	background: gray;

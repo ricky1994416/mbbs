@@ -13,7 +13,7 @@ body:not(.editing) .cmap > li::before {
 	position: absolute;
 	top: 0;
 }
-body:not(.editing) .cmap > li:nth-child(1)::before { content: '1'; }
+body:not(.editing) .cmap > li:nth-child(1)::before { content: '10'; }
 body:not(.editing) .cmap > li:nth-child(2)::before { content: '2'; }
 body:not(.editing) .cmap > li:nth-child(3)::before { content: '3'; }
 body:not(.editing) .cmap > li:nth-child(4)::before { content: '4'; }

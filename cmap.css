@@ -78,8 +78,8 @@ body:not(.editing) .cmap td.iasm      a { background: #ECF5F4; }
 body:not(.editing) .cmap td.cprs      a { background: #ECF5F4; }
 body:not(.editing) .cmap td.formative a { background: #004E49; color: white !important;}
 body:not(.editing) .cmap td.summative a { background: #004E49; color: white !important; }
-body:not(.editing) .cmap td.cc        a { background: #8DD3CB; }
-body:not(.editing) .cmap td.english   a { background: #8DD3CB; }
+body:not(.editing) .cmap td.cc        a { background: #8DD3CB; font-weight: bold;}
+body:not(.editing) .cmap td.english   a { background: #8DD3CB; font-weight: bold;}
 body:not(.editing) .cmap td.gis       a { background: #ECF5F4; }
 body:not(.editing) .cmap td.mss       a { background: #ECF5F4; }
 body:not(.editing) .cmap td.hnns      a { background: #ECF5F4; }
@@ -88,7 +88,7 @@ body:not(.editing) .cmap td.ers       a { background: #ECF5F4; }
 body:not(.editing) .cmap td.chinese   a { background: #ECF5F4; }
 body:not(.editing) .cmap td.ey        a { background: #ECF5F4; }
 body:not(.editing) .cmap td.cfb       a { background: #ECF5F4; }
-body:not(.editing) .cmap td.comm      a { background: #8DD3CB; }
+body:not(.editing) .cmap td.comm      a { background: #8DD3CB; font-weight: bold;}
 body:not(.editing) .cmap td.jc        a { background: #ECF5F4; }
 body:not(.editing) .cmap td.sc        a { background: #ECF5F4; }
 body:not(.editing) .cmap td.break     a { background: #C0C0C2; }

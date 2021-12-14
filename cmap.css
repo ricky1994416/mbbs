@@ -86,7 +86,7 @@ body:not(.editing) .cmap td.hnns      a { background: #4baca6; }
 body:not(.editing) .cmap td.his       a { background: #4baea6; }
 body:not(.editing) .cmap td.ers       a { background: #4baea6; }
 body:not(.editing) .cmap td.chinese   a { background: #4bacc6; }
-body:not(.editing) .cmap td.ey        a { background: #8064a2; }
+body:not(.editing) .cmap td.ey        a { background: #3fbcc6; }
 body:not(.editing) .cmap td.cfb       a { background: #3fbcc6; }
 body:not(.editing) .cmap td.comm      a { background: #4f6228; }
 body:not(.editing) .cmap td.jc        a { background: #4f81bd; }

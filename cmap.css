@@ -96,6 +96,8 @@ body:not(.editing) .cmap td.spc       a { background: #e6dace; }
 body:not(.editing) .cmap td.revision  a { background: #e6dace; }
 body:not(.editing) .cmap td.elective  a { background: #e6dace; }
 body:not(.editing) .cmap td.epib      a { background: #e6dace; }
+body:not(.editing) .cmap td.cb        a { background: #a0a9a6; }
+
 
 
 /* table overflow bug (when hover blocks around the edge) */

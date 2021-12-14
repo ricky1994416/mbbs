@@ -33,7 +33,7 @@ body:not(.editing) .cmap table {
 }
 body:not(.editing) .cmap td { padding: 0; }
 body:not(.editing) .cmap table,
-body:not(.editing) .cmap td { border: solid 1px white; }
+body:not(.editing) .cmap td { border: solid 1px black; }
 body:not(.editing) .cmap td.spc-block { border: none; }
 
 

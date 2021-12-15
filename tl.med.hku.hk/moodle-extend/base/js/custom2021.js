@@ -22,7 +22,7 @@ function customFro2021(){
 		requirejs(['jquery'], function($){
 			var $heading = $('.page-header-headings');
 		
-			$heading.html( '<h1>Ricky te st MBBS Curriculum [2021/22]</h1>' );
+			$heading.html( '<h1>Ricky   test MBBS Curriculum [2021/22]</h1>' );
 		}); // jquery-ready
 	}); // document-ready
 	

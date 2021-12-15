@@ -1,3 +1,4 @@
 a[href]:hover {
 	transform: scale(0.995);
 }
+word-break: normal;

@@ -123,6 +123,8 @@ function addEditorButton() {
 				// define resources
 				var templates = {
 					'WCS' : 'https://moodle.hku.hk/mod/page/view.php?id=1832296',
+                    'WCS2020': 'https://moodle.hku.hk/mod/page/view.php?id=2405735',
+                    'Practicals2020': 'https://moodle.hku.hk/mod/page/view.php?id=2405736',
 					'Practicals' : 'https://moodle.hku.hk/mod/page/view.php?id=1832329'
 				}
 				

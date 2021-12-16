@@ -1,4 +1,6 @@
 a[href]:hover {
 	transform: scale(1.2, 1);
+	z-index: 999;
+
 }
 word-break: normal;

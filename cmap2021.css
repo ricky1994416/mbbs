@@ -68,7 +68,7 @@ body:not(.editing) .cmap tbody td > span > a {
 
 /* month ruler */
 body:not(.editing) .cmap tfoot td {
-	font-size: .7rem;
+	font-size: .6rem;
 	font-style: italic;
 }
 

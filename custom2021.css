@@ -167,7 +167,7 @@ img.section-banner.atto_image_button_text-bottom { margin: 0; }
 
 /* bottom */
 #region-main {
-	background: url(https://raw.githubusercontent.com/ricky1994416/mbbs/main/img/mascotbtm.jpg) center calc(100% + 265px) no-repeat white;
+	background: url(https://raw.githubusercontent.com/ricky1994416/mbbs/main/img/mascotbtm.jpg) center calc(100% + 10px) no-repeat white;
 	background-size: 800px auto;
 	padding-bottom: 300px;
 }

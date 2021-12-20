@@ -101,8 +101,6 @@ body:not(.editing) .cmap td.cb        a { background: #8DD3CB; font-weight: bold
 body:not(.editing) .cmap td.empty     a { background: #ECF5F4; font-weight: bold;}
 
 
-
-
 /* table overflow bug (when hover blocks around the edge) */
 @media (min-width: 992px) {
 	#section-1 ul.section .activity .no-overflow,

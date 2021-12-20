@@ -179,14 +179,14 @@ img.section-banner.atto_image_button_text-bottom { margin: 0; }
 	background-size: auto 100px;
 }
 #page-header.has-settings-menu .card-body { background-position: calc(100% - 60px); }
-#page-header.mascot-1  .card-body { background-image: url(../img/mascot_1.png); }
-#page-header.mascot-2  .card-body { background-image: url(../img/mascot_2.gif); }
-#page-header.mascot-3  .card-body { background-image: url(../img/mascot_3.png); }
-#page-header.mascot-4  .card-body { background-image: url(../img/mascot_4.gif); }
-#page-header.mascot-5  .card-body { background-image: url(../img/mascot_5.gif); }
-#page-header.mascot-6  .card-body { background-image: url(../img/mascot_6.gif); }
-#page-header.mascot-7  .card-body { background-image: url(../img/mascot_7.gif); }
-#page-header.mascot-8  .card-body { background-image: url(../img/mascot_8.png); }
+#page-header.mascot-1  .card-body { background-image: url(https://raw.githubusercontent.com/ricky1994416/mbbs/main/img/mascot_1.png); }
+#page-header.mascot-2  .card-body { background-image: url(https://raw.githubusercontent.com/ricky1994416/mbbs/main/img/mascot_2.gif); }
+#page-header.mascot-3  .card-body { background-image: url(https://raw.githubusercontent.com/ricky1994416/mbbs/main/img/mascot_3.png); }
+#page-header.mascot-4  .card-body { background-image: url(https://raw.githubusercontent.com/ricky1994416/mbbs/main/img/mascot_4.gif); }
+#page-header.mascot-5  .card-body { background-image: url(https://raw.githubusercontent.com/ricky1994416/mbbs/main/img/mascot_5.gif); }
+#page-header.mascot-6  .card-body { background-image: url(https://raw.githubusercontent.com/ricky1994416/mbbs/main/img/mascot_6.gif); }
+#page-header.mascot-7  .card-body { background-image: url(https://raw.githubusercontent.com/ricky1994416/mbbs/main/img/mascot_7.gif); }
+#page-header.mascot-8  .card-body { background-image: url(https://raw.githubusercontent.com/ricky1994416/mbbs/main/img/mascot_8.png); }
 #page-header.mascot-9  .card-body { background-image: url(../img/mascot_9.gif); }
 #page-header.mascot-10 .card-body { background-image: url(../img/mascot_10.gif); }
 #page-header.mascot-11 .card-body { background-image: url(../img/mascot_11.gif); }

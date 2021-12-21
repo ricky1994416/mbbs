@@ -74,8 +74,8 @@ body:not(.editing) .cmap tfoot td {
 
 
 /* block color */
-body:not(.editing) .cmap td.iasm      a { background: #4bacc6; }
-body:not(.editing) .cmap td.cprs      a { background: #00b0f0; }
+body:not(.editing) .cmap td.iasm      a { background: #08D1C9; }
+body:not(.editing) .cmap td.cprs      a { background: #08D1C9; }
 body:not(.editing) .cmap td.formative a { background: #d99594; }
 body:not(.editing) .cmap td.summative a { background: #c0504d; }
 body:not(.editing) .cmap td.cc        a { background: #f79646; }

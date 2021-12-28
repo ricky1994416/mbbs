@@ -1,7 +1,7 @@
 a[href]:hover {
 	box-shadow: 0 0 4px rgba(0,0,0,.6);
 	//box-shadow: 10px 5px 5px red;
-	transform: scale(0.999);
+	transform: scale(1.005);
 	z-index: 999;
 }
 word-break: normal;

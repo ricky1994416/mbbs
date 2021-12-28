@@ -390,7 +390,7 @@ function parseQueryString(qs) {
 					//$('<img>').attr('src', img).addClass('d-block').appendTo($brand);
 				} else {
 					// logo for all
-					$('<img>').attr('src', img).addClass('d-block').appendTo($brand);
+					//$('<img>').attr('src', img).addClass('d-block').appendTo($brand);
 				}
 			}); // jquery-ready
 		}); // document-ready

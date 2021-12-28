@@ -372,29 +372,4 @@ function parseQueryString(qs) {
 
 
 
-// change link and apply logo image
-function setLogo(img, url) {
-	document.addEventListener("DOMContentLoaded", function(event){
-		requirejs(['jquery'], function($){
-			var $brand = $('#page-wrapper > .navbar .navbar-brand');
-			// set logo link
-			if ( url ) {
-				$brand.attr('href', url).attr('target', '_blank');
-			} else {
-				$brand.attr('href', '#');
-			}
-			// set logo image
-			if ( Array.isArray(img) ) {
-				// logo for desktop
-				//$('<img>').attr('src', img[0]).addClass('d-none d-xl-block d-lg-block d-md-block d-sm-block').appendTo($brand);
-				$('<img>').attr('src', img).addClass('d-block').appendTo($brand);
-				// logo for mobile
-				//$('<img>').attr('src', img[1]).addClass('d-block d-xl-none d-lg-none d-md-none d-sm-none').appendTo($brand);
-				$('<img>').attr('src', img).addClass('d-block').appendTo($brand);
-			} else {
-				// logo for all
-				$('<img>').attr('src', img).addClass('d-block').appendTo($brand);
-			}
-		}); // jquery-ready
-	}); // document-ready
-}
+

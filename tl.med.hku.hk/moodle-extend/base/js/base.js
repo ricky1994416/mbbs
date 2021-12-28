@@ -29,12 +29,14 @@ fixBlockAttribute();
 fixBlockPadding();
 
 document.addEventListener("DOMContentLoaded", function(event){
-	requirejs(['jquery'], function($){
 	/*
+	requirejs(['jquery'], function($){
+	
 		applyAjaxModal();
 		applyTableResponsive();
-		*/
+		
 	});
+*/
 });
 
 

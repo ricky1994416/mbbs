@@ -387,7 +387,7 @@ function parseQueryString(qs) {
 					//$('<img>').attr('src', img).addClass('d-block').appendTo($brand);
 					// logo for mobile
 					//$('<img>').attr('src', img[1]).addClass('d-block d-xl-none d-lg-none d-md-none d-sm-none').appendTo($brand);
-					$('<img>').attr('src', img).addClass('d-block').appendTo($brand);
+					//$('<img>').attr('src', img).addClass('d-block').appendTo($brand);
 				} else {
 					// logo for all
 					$('<img>').attr('src', img).addClass('d-block').appendTo($brand);

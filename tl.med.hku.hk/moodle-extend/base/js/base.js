@@ -345,7 +345,7 @@ function fixBlockPadding() {
 
 
 
-/*
+
 // load css file
 function includeCSS(src) {
 	var link = document.createElement('link');
@@ -353,7 +353,6 @@ function includeCSS(src) {
 	link.href = src;
 	document.head.appendChild(link);
 }
-*/
 
 
 

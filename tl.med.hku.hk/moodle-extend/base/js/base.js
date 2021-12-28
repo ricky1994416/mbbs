@@ -383,13 +383,13 @@ function parseQueryString(qs) {
 				// set logo image
 				if ( Array.isArray(img) ) {
 					// logo for desktop
-					$('<img>').attr('src', img).addClass('d-none d-xl-block d-lg-block d-md-block d-sm-block').appendTo($brand);
+					$('<img>').attr('src', img[0]).addClass('d-none d-xl-block d-lg-block d-md-block d-sm-block').appendTo($brand);
 					//$('<img>').attr('src', img).addClass('d-block').appendTo($brand);
 					// logo for mobile
 					$('<img>').attr('src', img[1]).addClass('d-block d-xl-none d-lg-none d-md-none d-sm-none').appendTo($brand);
 				} else {
 					// logo for all
-					$('<img>').attr('src', img[0]).addClass('d-block').appendTo($brand);
+					$('<img>').attr('src', img[1]).addClass('d-block').appendTo($brand);
 				}
 			}); // jquery-ready
 		}); // document-ready

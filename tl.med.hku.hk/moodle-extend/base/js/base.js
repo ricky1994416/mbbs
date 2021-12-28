@@ -18,6 +18,7 @@
 	</description>
 </fusedoc>
 */
+/*
 addGlobalModal();
 ajaxModal();
 ajaxLoad();
@@ -32,7 +33,7 @@ document.addEventListener("DOMContentLoaded", function(event){
 		applyTableResponsive();
 	});
 });
-
+*/
 
 
 

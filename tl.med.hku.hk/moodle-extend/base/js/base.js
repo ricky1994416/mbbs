@@ -18,7 +18,7 @@
 	</description>
 </fusedoc>
 */
-/*
+
 addGlobalModal();
 ajaxModal();
 ajaxLoad();
@@ -27,15 +27,13 @@ applyIndentClass();
 applyAutoClick();
 fixBlockAttribute();
 fixBlockPadding();
-
-
 document.addEventListener("DOMContentLoaded", function(event){
 	requirejs(['jquery'], function($){
 		applyAjaxModal();
 		applyTableResponsive();
 	});
 });
-*/
+
 
 
 
@@ -371,7 +369,7 @@ function parseQueryString(qs) {
 	});
 	return result;
 }
-
+/*
 // change link and apply logo image
 	function setLogo(img, url) {
 		document.addEventListener("DOMContentLoaded", function(event){
@@ -397,7 +395,7 @@ function parseQueryString(qs) {
 		}); // document-ready
 	}
 
-
+*/
 
 
 

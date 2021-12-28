@@ -345,7 +345,7 @@ function fixBlockPadding() {
 
 
 
-
+/*
 // load css file
 function includeCSS(src) {
 	var link = document.createElement('link');
@@ -353,7 +353,7 @@ function includeCSS(src) {
 	link.href = src;
 	document.head.appendChild(link);
 }
-
+*/
 
 
 
@@ -369,7 +369,7 @@ function parseQueryString(qs) {
 	});
 	return result;
 }
-/*
+
 // change link and apply logo image
 	function setLogo(img, url) {
 		document.addEventListener("DOMContentLoaded", function(event){
@@ -395,7 +395,7 @@ function parseQueryString(qs) {
 		}); // document-ready
 	}
 
-*/
+
 
 
 

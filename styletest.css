@@ -1,7 +1,28 @@
 a[href]:hover {
 	box-shadow: 0 0 4px rgba(0,0,0,.6);
-	//box-shadow: 10px 5px 5px red;
 	transform: scale(1.02);
 	z-index: 999;
 }
-word-break: normal;
+
+g[id="iasm"]:hover {transform: translate(0px, 0px);}
+g[id="cprs"]:hover {transform: translate(-25px, 0px);}
+g[id="gis"]:hover {transform: translate(0px, -10px);}
+g[id="mss"]:hover {transform: translate(-10px, -10px);}
+g[id="hnns"]:hover {transform: translate(-20px, -10px);}
+g[id="his"]:hover {transform: translate(-28px, -10px);}
+g[id="ers"]:hover {transform: translate(-35px, -10px);}
+g[id="cfb"]:hover {transform: translate(0px, -23px);}
+g[id="blocka"]:hover {transform: translate(-14px, -27px);}
+g[id="blockb"]:hover {transform: translate(-14px, -30px);}
+g[id="blockc"]:hover {transform: translate(-14px, -33px);}
+g[id="blockc"]:hover {transform: translate(-14px, -33px);}
+g[id="ba"]:hover {transform: translate(0px, -37px);}
+g[id="bb"]:hover {transform: translate(0px, -39px);}
+g[id="bc"]:hover {transform: translate(0px, -41px);}
+g[id="fam"]:hover {transform: translate(-27px, -37px);}
+g[id="pae"]:hover {transform: translate(-38px, -37px);}
+g[id="med"]:hover {transform: translate(-27px, -38px);}
+g[id="psy"]:hover {transform: translate(-38px, -38px);}
+g[id="sur"]:hover {transform: translate(-27px, -39px);}
+g[id="ort"]:hover {transform: translate(-38px, -39px);}
+g[id="obs"]:hover {transform: translate(-27px, -40px);}

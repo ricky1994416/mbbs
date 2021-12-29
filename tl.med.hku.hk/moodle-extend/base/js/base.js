@@ -24,18 +24,19 @@ addGlobalModal();
 ajaxModal();
 ajaxLoad();
 applyAjaxModalToSwitchRole();
+/*
 applyIndentClass();
 applyAutoClick();
 fixBlockAttribute();
 fixBlockPadding();
-/*
+*/
 document.addEventListener("DOMContentLoaded", function(event){
 	requirejs(['jquery'], function($){
 		applyAjaxModal();
 		applyTableResponsive();
 	});
 });
-*/
+
 
 
 

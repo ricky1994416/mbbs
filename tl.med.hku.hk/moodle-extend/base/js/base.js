@@ -34,7 +34,7 @@ document.addEventListener("DOMContentLoaded", function(event){
 		applyTableResponsive();
 	});
 });
-
+*/
 
 
 
@@ -395,7 +395,7 @@ function parseQueryString(qs) {
 		}); // document-ready
 	}
 
-*/
+
 
 
 

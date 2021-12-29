@@ -48,7 +48,6 @@ function addGlobalModal() {
 					/*
 						<div id="`+elementID+`" class="modal fade" data-backdrop="true" tabindex="-1" role="dialog" aria-modal="true">
 							<div class="modal-dialog `+className+`">
-					*/		
 								<div class="modal-content">
 									<div class="modal-header">
 										<div class="modal-title h4"></div>
@@ -60,7 +59,6 @@ function addGlobalModal() {
 										<button type="button" class="btn btn-light" data-dismiss="modal">Close</button>
 									</div>
 								</div>
-					/*		
 							</div>
 						</div>
 					*/	

@@ -60,7 +60,7 @@ function addGlobalModal() {
 								</div>
 							</div>
 						</div>
-					`).appendTo('#yui_3_17_2_1_1640763328665_113');
+					`).appendTo('#block-region-side-pre');
 				}
 			});
 		}); // jquery-ready

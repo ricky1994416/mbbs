@@ -60,7 +60,7 @@ function addGlobalModal() {
 								</div>
 							</div>
 						</div>
-					`).appendTo('body.format-flexsections path-course path-course-view chrome dir-ltr lang-en yui-skin-sam yui3-skin-sam moodle-hku-hk pagelayout-course course-92843 context-3630346 category-909 drawer-open-left jsenabled');
+					`).appendTo('body');
 				}
 			});
 		}); // jquery-ready

@@ -18,18 +18,14 @@
 	</description>
 </fusedoc>
 */
-
-
 addGlobalModal();
 ajaxModal();
 ajaxLoad();
 applyAjaxModalToSwitchRole();
-
 applyIndentClass();
 applyAutoClick();
 fixBlockAttribute();
 fixBlockPadding();
-
 document.addEventListener("DOMContentLoaded", function(event){
 	requirejs(['jquery'], function($){
 		applyAjaxModal();
@@ -46,34 +42,27 @@ function addGlobalModal() {
 		requirejs(['jquery'], function($){
 			$(['xl','lg','md','sm','xs']).each(function(i, size){
 				var elementID = 'global-modal-'+size;
-				var className = 'modal-'+size;
-				
-				if ( !$('#'+elementID).length ) {
-				
+				var className = 'modal-'+size;			
+				if ( !$('#'+elementID).length ) {		
 					$('
 						<div id="'+elementID+'" class="modal fade" data-backdrop="true" tabindex="-1" role="dialog" aria-modal="true">
 							<div class="modal-dialog '+className+'">
 							
 								<div class="modal-content">
-									
 									<div class="modal-header">
 										<div class="modal-title h4"></div>
 										<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
 									</div>
-									
 									<div class="modal-body"></div>
 									<div class="modal-footer">
 										<small class="text-muted mr-auto"></small>
 										<button type="button" class="btn btn-light" data-dismiss="modal">Close</button>
 									</div>
 								</div>
-								
 							</div>
 						</div>
 					').appendTo('body');
-					
 				}
-				
 			});
 		}); // jquery-ready
 	}); // document-ready
@@ -367,6 +356,7 @@ function includeCSS(src) {
 
 
 
+
 // parse query string into object
 function parseQueryString(qs) {
 	var result = {};
@@ -379,6 +369,9 @@ function parseQueryString(qs) {
 	});
 	return result;
 }
+
+
+
 
 // change link and apply logo image
 	function setLogo(img, url) {
@@ -404,8 +397,3 @@ function parseQueryString(qs) {
 			}); // jquery-ready
 		}); // document-ready
 	}
-
-
-
-
-

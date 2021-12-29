@@ -19,9 +19,10 @@
 </fusedoc>
 */
 
-/*
+
 addGlobalModal();
 ajaxModal();
+/*
 ajaxLoad();
 applyAjaxModalToSwitchRole();
 */

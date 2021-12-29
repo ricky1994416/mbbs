@@ -5,16 +5,16 @@ a[href]:hover {
 }
 
 g[id="iasm"]:hover {transform: translate(0px, 0px);}
-g[id="cprs"]:hover {transform: translate(-35px, 0px);}
+g[id="cprs"]:hover {transform: translate(-38px, 0px);}
 g[id="gis"]:hover {transform: translate(0px, -13px);}
 g[id="mss"]:hover {transform: translate(-8px, -13px);}
-g[id="hnns"]:hover {transform: translate(-30px, -13px);}
+g[id="hnns"]:hover {transform: translate(-28px, -13px);}
 g[id="his"]:hover {transform: translate(-28px, -13px);}
 g[id="ers"]:hover {transform: translate(-35px, -13px);}
 g[id="cfb"]:hover {transform: translate(0px, -23px);}
-g[id="blocka"]:hover {transform: translate(-30px, -27px);}
-g[id="blockb"]:hover {transform: translate(-30px, -30px);}
-g[id="blockc"]:hover {transform: translate(-30px, -33px);}
+g[id="blocka"]:hover {transform: translate(-32px, -27px);}
+g[id="blockb"]:hover {transform: translate(-32px, -28px);}
+g[id="blockc"]:hover {transform: translate(-32px, -29px);}
 g[id="ba"]:hover {transform: translate(0px, -37px);}
 g[id="bb"]:hover {transform: translate(0px, -39px);}
 g[id="bc"]:hover {transform: translate(0px, -41px);}

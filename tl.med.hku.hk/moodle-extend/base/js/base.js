@@ -18,6 +18,7 @@
 	</description>
 </fusedoc>
 */
+/*
 
 addGlobalModal();
 ajaxModal();
@@ -35,7 +36,7 @@ document.addEventListener("DOMContentLoaded", function(event){
 });
 
 
-/*
+*/
 
 // create different size of empty modals
 function addGlobalModal() {
@@ -395,6 +396,6 @@ function parseQueryString(qs) {
 	}
 
 
-*/
+
 
 

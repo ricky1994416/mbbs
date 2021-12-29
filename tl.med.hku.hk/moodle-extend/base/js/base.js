@@ -91,7 +91,7 @@ function ajaxLoad() {
 					alert('[ajaxLoad] No target was specified');
 					return false;
 				} else if ( !$target.length ) {
-					alert('[ajaxLoad] Target not found ('+$link.attr('data-target')+')');
+					alert('[ajaxLoad] Target not found 1('+$link.attr('data-target')+')');
 					return false;
 				} else if ( !url ) {
 					alert('[ajaxLoad] No source was specified');
@@ -158,7 +158,7 @@ function ajaxModal() {
 				}();
 				// validation
 				if ( !$modal.length ) {
-					alert('[ajaxModal] Target not found ('+$link.attr('data-target')+')');
+					alert('[ajaxModal] Target not found 2('+$link.attr('data-target')+')');
 					return false;
 				} else if ( !url ) {
 					alert('[ajaxModal] No source was specified');

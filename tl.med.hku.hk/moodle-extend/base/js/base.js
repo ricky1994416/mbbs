@@ -19,13 +19,13 @@
 </fusedoc>
 */
 
-
+/*
 addGlobalModal();
 ajaxModal();
-/*
+*/
 ajaxLoad();
 applyAjaxModalToSwitchRole();
-*/
+
 applyIndentClass();
 applyAutoClick();
 fixBlockAttribute();

@@ -19,7 +19,6 @@
 </fusedoc>
 */
 addGlobalModal();
-createPopupWin();
 ajaxModal();
 ajaxLoad();
 applyAjaxModalToSwitchRole();

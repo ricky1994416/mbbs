@@ -47,16 +47,18 @@ function addGlobalModal() {
 			$(['xl','lg','md','sm','xs']).each(function(i, size){
 				var elementID = 'global-modal-'+size;
 				var className = 'modal-'+size;
-				/*
+				
 				if ( !$('#'+elementID).length ) {
 					$(`
 						<div id="`+elementID+`" class="modal fade" data-backdrop="true" tabindex="-1" role="dialog" aria-modal="true">
 							<div class="modal-dialog `+className+`">
 								<div class="modal-content">
+									/*
 									<div class="modal-header">
 										<div class="modal-title h4"></div>
 										<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
 									</div>
+									*/
 									<div class="modal-body"></div>
 									<div class="modal-footer">
 										<small class="text-muted mr-auto"></small>
@@ -67,7 +69,7 @@ function addGlobalModal() {
 						</div>
 					`).appendTo('body');
 				}
-				*/
+				
 			});
 		}); // jquery-ready
 	}); // document-ready

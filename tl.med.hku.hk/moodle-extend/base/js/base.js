@@ -60,7 +60,7 @@ function addGlobalModal() {
 								</div>
 							</div>
 						</div>
-					`).appendTo('body');
+					`).not(":drawer-toggle").appendTo('body');
 				}
 			});
 		}); // jquery-ready

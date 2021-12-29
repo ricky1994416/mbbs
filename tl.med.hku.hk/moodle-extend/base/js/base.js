@@ -21,8 +21,9 @@
 
 /*
 addGlobalModal();
-ajaxModal();
 */
+ajaxModal();
+
 ajaxLoad();
 applyAjaxModalToSwitchRole();
 

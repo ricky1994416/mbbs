@@ -60,7 +60,7 @@ function addGlobalModal() {
 								</div>
 							</div>
 						</div>
-					`).appendTo('body:not(.d-print-block)' );
+					`).appendTo('body:not(.d-print-none)' );
 				}
 			});
 		}); // jquery-ready

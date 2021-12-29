@@ -60,7 +60,7 @@ function addGlobalModal() {
 								</div>
 							</div>
 						</div>
-					`).appendTo('#page');
+					`).appendTo('#region-main');
 				}
 			});
 		}); // jquery-ready

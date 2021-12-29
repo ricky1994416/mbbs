@@ -19,11 +19,9 @@
 </fusedoc>
 */
 
-/*
-addGlobalModal();
-*/
-ajaxModal();
 
+addGlobalModal();
+ajaxModal();
 ajaxLoad();
 applyAjaxModalToSwitchRole();
 
@@ -49,6 +47,7 @@ function addGlobalModal() {
 			$(['xl','lg','md','sm','xs']).each(function(i, size){
 				var elementID = 'global-modal-'+size;
 				var className = 'modal-'+size;
+				/*
 				if ( !$('#'+elementID).length ) {
 					$(`
 						<div id="`+elementID+`" class="modal fade" data-backdrop="true" tabindex="-1" role="dialog" aria-modal="true">
@@ -68,6 +67,7 @@ function addGlobalModal() {
 						</div>
 					`).appendTo('body');
 				}
+				*/
 			});
 		}); // jquery-ready
 	}); // document-ready

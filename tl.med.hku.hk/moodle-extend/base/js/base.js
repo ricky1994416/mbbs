@@ -60,7 +60,7 @@ function addGlobalModal() {
 								</div>
 							</div>
 						</div>
-					`).appendTo('body');
+					`).appendTo('.block_html block  card mb-3');
 				}
 			});
 		}); // jquery-ready

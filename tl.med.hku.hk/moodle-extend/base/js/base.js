@@ -222,7 +222,7 @@ function ajaxModal() {
 
 
 
-// suffix any link by caret (%) to open in modal
+// suffix any link by caret (^) to open in modal
 function applyAjaxModal(scope) {
 	var scope = scope || 'body:not(.editing)';
 	// remove caret in breadcrumb & section title (when necessary)
@@ -234,7 +234,7 @@ function applyAjaxModal(scope) {
 	$(scope).find(selectors).each(function(){
 		var $item = $(this);
 		var itemText = $item.text().trim();
-		if ( itemText.substr(-1) == '%' ) $item.html( itemText.substr(0, itemText.length-1) );
+		if ( itemText.substr(-1) == '^' ) $item.html( itemText.substr(0, itemText.length-1) );
 	});
 	// go through every link
 	$(scope).find('a').each(function(){
@@ -249,7 +249,7 @@ function applyAjaxModal(scope) {
 			linkText = $link.text().trim();
 		}
 		// check any special symbol
-		if ( linkText.substr(-1) == '%' ) {
+		if ( linkText.substr(-1) == '^' ) {
 			linkText = linkText.substr(0, linkText.length-1);
 			// remove caret from link
 			if ( isActivity ) {

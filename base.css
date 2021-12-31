@@ -66,7 +66,7 @@ body { background-color: #d9d9d9; }
 body:not(.editing) #nav-drawer nav.list-group a .icon { display: none; }
 
 /* hide menu with unused Moodle features */
-body:not(.editing) #nav-drawer nav.list-group a[data-key=mbbs_2021]  { display: block; }
+body:not(.editing) #nav-drawer nav.list-group[aria-label=Site] { display: none; }
 body:not(.editing) #nav-drawer nav.list-group a[data-key=grades],
 body:not(.editing) #nav-drawer nav.list-group a[data-key=coursehome],
 body:not(.editing) #nav-drawer nav.list-group a[data-key=badgesview],

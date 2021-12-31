@@ -1,4 +1,4 @@
-.cmap-container > a[href]:hover {
+a[href]:hover {
 	box-shadow: 0 0 4px rgba(0,0,0,.6);
 	transform: scale(1.05);
 	z-index: 999;

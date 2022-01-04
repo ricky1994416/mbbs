@@ -3,6 +3,11 @@
 	transform: scale(1.05);
 	z-index: 999;
 }
+.cmap2 a[href]:hover {
+	box-shadow: 0 0 4px rgba(0,0,0,.6);
+	transform: scale(1.05);
+	z-index: 999;
+}
 
 g[id="iasm"]:hover {transform: translate(0px, 0px);}
 g[id="cprs"]:hover {transform: translate(-38px, 0px);}

@@ -3,7 +3,7 @@
 	transform: scale(1.05);
 	z-index: 999;
 }
-.cmap2 a[href]:hover {
+.cmap2 g[href]:hover {
 	box-shadow: 0 0 4px rgba(0,0,0,.6);
 	transform: scale(1.05);
 	z-index: 999;

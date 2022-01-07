@@ -169,7 +169,7 @@ function ajaxModal() {
 				}();
 				// validation
 				if ( !$modal.length ) {
-					alert('[ajaxModal] Target not found 2('+$link.attr('data-target')+')');
+					//alert('[ajaxModal] Target not found 2('+$link.attr('data-target')+')');
 					return false;
 				} else if ( !url ) {
 					alert('[ajaxModal] No source was specified');

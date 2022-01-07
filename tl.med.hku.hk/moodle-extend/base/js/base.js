@@ -171,7 +171,7 @@ function ajaxModal() {
 				if ( !$modal.length ) {
 					window.open(url, '_blank').focus();
 					//alert('[ajaxModal] Target not found 2('+$link.attr('data-target')+')');
-					//return false;
+					return false;
 				} else if ( !url ) {
 					alert('[ajaxModal] No source was specified');
 					return false;

@@ -169,8 +169,8 @@ function ajaxModal() {
 				}();
 				// validation
 				if ( !$modal.length ) {
-					window.open(url, '_blank').focus();
-					//alert('[ajaxModal] Target not found 2('+$link.attr('data-target')+')');
+					//window.open(url, '_blank').focus();
+					alert('[ajaxModal] Target not found 2('+$link.attr('data-target')+')');
 					return false;
 				} else if ( !url ) {
 					alert('[ajaxModal] No source was specified');

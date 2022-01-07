@@ -169,7 +169,7 @@ function ajaxModal() {
 				}();
 				// validation
 				if ( !$modal.length ) {
-					return $link.attr('href');
+					return $link.attr('data-href');
 					//alert('[ajaxModal] Target not found 2('+$link.attr('data-target')+')');
 					return false;
 				} else if ( !url ) {

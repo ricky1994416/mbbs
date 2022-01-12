@@ -32,7 +32,7 @@ mbbs
 
 
     includeCSS("https://ricky1994416.github.io/mbbs/custom2021.css");
-    setLogo(["https://raw.githubusercontent.com/ricky1994416/mbbs/main/logo%20grey%20bg.png", "https://raw.githubusercontent.com/ricky1994416/mbbs/main/logo_3%20grey%20bg.png"], "https://www.med.hku.hk");
+    setLogo(["https://raw.githubusercontent.com/ricky1994416/mbbs/main/logo.png", "https://raw.githubusercontent.com/ricky1994416/mbbs/main/logo_3.png"], "https://www.med.hku.hk");
 
     addEditorButton();
     fixEditorHeight();

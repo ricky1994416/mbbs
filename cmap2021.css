@@ -108,7 +108,7 @@ body:not(.editing) .cmap td.epib      a { background: #cc9900; }
 }
 
 /* table overflow bug (when hover blocks around the edge) */
-@media (max-width: 990px) {
+@media (max-width: 1100px) {
 	body:not(.editing) .cmap tbody td { font-size: 0.65rem; !important}
 	
 @media (max-width: 750px) {

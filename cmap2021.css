@@ -102,7 +102,6 @@ body:not(.editing) .cmap td.epib      a { background: #cc9900; }
 @media (min-width: 992px) {
 	#section-1 ul.section .activity .no-overflow,
 	.cmap .table-responsive { overflow: visible; }
-
 }
 
 /* table overflow bug (when hover blocks around the edge) */

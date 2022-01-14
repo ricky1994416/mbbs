@@ -128,7 +128,7 @@ function addEditorButton() {
                     			'WCS2020 with interactive session': 'https://moodle.hku.hk/mod/page/view.php?id=2405735',
                     			'Practicals2020 no forum': 'https://moodle.hku.hk/mod/page/view.php?id=2405736',
 					
-					'Week': 'https://moodle.hku.hk/mod/page/view.php?id=2455504',
+					'Week': 'https://moodle.hku.hk/mod/page/view.php?id=2455504'
 
 				}
 				

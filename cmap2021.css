@@ -29,6 +29,7 @@ body:not(.editing) .cmap table {
 	height: 0;
 	margin: 0 !important;
 	min-width: 600px;
+	
 	width: 100%;
 }
 body:not(.editing) .cmap td { padding: 0; }
@@ -38,8 +39,7 @@ body:not(.editing) .cmap td.spc-block { border: none; }
 
 
 /* block table */
-//body:not(.editing) .cmap tbody td { font-size: .85rem; }
-body:not(.editing) .cmap tbody td { font-size: 0.85vw; }
+body:not(.editing) .cmap tbody td { font-size: .85rem; }
 body:not(.editing) .cmap tbody td a { color: white !important; }
 body:not(.editing) .cmap tbody td > a,
 body:not(.editing) .cmap tbody td > span {
@@ -69,8 +69,7 @@ body:not(.editing) .cmap tbody td > span > a {
 
 /* month ruler */
 body:not(.editing) .cmap tfoot td {
-	//font-size: .7rem;
-	font-size: .7vw;
+	font-size: .7rem;
 	font-style: italic;
 }
 

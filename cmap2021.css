@@ -39,7 +39,7 @@ body:not(.editing) .cmap td.spc-block { border: none; }
 
 
 /* block table */
-body:not(.editing) .cmap tbody td { font-size: .85rem; }
+//body:not(.editing) .cmap tbody td { font-size: .85rem; }
 body:not(.editing) .cmap tbody td { font-size: 0.5vw; }
 body:not(.editing) .cmap tbody td a { color: white !important; }
 body:not(.editing) .cmap tbody td > a,

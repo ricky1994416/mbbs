@@ -40,8 +40,7 @@ body:not(.editing) .cmap td.spc-block { border: none; }
 
 
 /* block table */
-//body:not(.editing) .cmap tbody td { font-size: .85rem; }
-body:not(.editing) .cmap tbody td { font-size: .5rem; }
+body:not(.editing) .cmap tbody td { font-size: .85rem; }
 body:not(.editing) .cmap tbody td a { color: white !important; }
 body:not(.editing) .cmap tbody td > a,
 body:not(.editing) .cmap tbody td > span {
@@ -105,4 +104,6 @@ body:not(.editing) .cmap td.epib      a { background: #cc9900; }
 @media (min-width: 992px) {
 	#section-1 ul.section .activity .no-overflow,
 	.cmap .table-responsive { overflow: visible; }
+	body:not(.editing) .cmap tbody td { font-size: 0.5rem; !important}
+
 }

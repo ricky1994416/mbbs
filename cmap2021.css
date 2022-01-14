@@ -28,9 +28,7 @@ body:not(.editing) .cmap > li:nth-child(9)::before { content: '9'; }
 body:not(.editing) .cmap table {
 	height: 0;
 	margin: 0 !important;
-	//min-width: 600px;
-	min-width: 400px;
-
+	min-width: 600px;
 	width: 100%;
 }
 body:not(.editing) .cmap td { padding: 0; }

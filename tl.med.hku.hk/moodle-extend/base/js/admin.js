@@ -122,10 +122,14 @@ function addEditorButton() {
 			requirejs(['jquery'], function($){
 				// define resources
 				var templates = {
-					'WCS' : 'https://moodle.hku.hk/mod/page/view.php?id=1832296',
-                    'WCS2020': 'https://moodle.hku.hk/mod/page/view.php?id=2405735',
-                    'Practicals2020': 'https://moodle.hku.hk/mod/page/view.php?id=2405736',
-					'Practicals' : 'https://moodle.hku.hk/mod/page/view.php?id=1832329'
+					'WCS with venue' : 'https://moodle.hku.hk/mod/page/view.php?id=1832296',
+					'Practicals with forum' : 'https://moodle.hku.hk/mod/page/view.php?id=1832329'
+
+                    			'WCS2020 with interactive session': 'https://moodle.hku.hk/mod/page/view.php?id=2405735',
+                    			'Practicals2020 no forum': 'https://moodle.hku.hk/mod/page/view.php?id=2405736',
+					
+					'Week': 'https://moodle.hku.hk/mod/page/view.php?id=2455504',
+
 				}
 				
 				// go through each field with editor

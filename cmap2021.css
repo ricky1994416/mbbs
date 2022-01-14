@@ -114,6 +114,3 @@ body:not(.editing) .cmap td.epib      a { background: #cc9900; }
 @media (max-width: 750px) {
 	body:not(.editing) .cmap tbody td { font-size: 0.5rem; !important}
 
-@media (max-width: 500px) {
-	body:not(.editing) .cmap tbody td { font-size: 0.25rem; !important}	
-}

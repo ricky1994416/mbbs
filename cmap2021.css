@@ -7,8 +7,7 @@ body:not(.editing) .cmap > li {
 body:not(.editing) .cmap > li::before {
 	color: #666;
 	display: block;
-	//font-size: 1rem;
-	font-size: 0.5vw;
+	font-size: 1rem;
 	font-weight: bold;
 	left: -1.5rem;
 	position: absolute;
@@ -40,7 +39,7 @@ body:not(.editing) .cmap td.spc-block { border: none; }
 
 /* block table */
 //body:not(.editing) .cmap tbody td { font-size: .85rem; }
-body:not(.editing) .cmap tbody td { font-size: 0.5vw; }
+body:not(.editing) .cmap tbody td { font-size: 0.85vw; }
 body:not(.editing) .cmap tbody td a { color: white !important; }
 body:not(.editing) .cmap tbody td > a,
 body:not(.editing) .cmap tbody td > span {
@@ -70,7 +69,8 @@ body:not(.editing) .cmap tbody td > span > a {
 
 /* month ruler */
 body:not(.editing) .cmap tfoot td {
-	font-size: .7rem;
+	//font-size: .7rem;
+	font-size: .7vw;
 	font-style: italic;
 }
 

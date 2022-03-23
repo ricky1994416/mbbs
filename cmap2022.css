@@ -48,9 +48,9 @@ body:not(.editing) .cmap tbody td > span {
 	height: 100%;
 	position: relative;
 	transition: transform .25s;
-	*/
-	vertical-align: middle;
 	/*
+	vertical-align: middle;
+	*/
 }
 body:not(.editing) .cmap tbody td > span,
 body:not(.editing) .cmap tbody td > a[href] { z-index: 1; }

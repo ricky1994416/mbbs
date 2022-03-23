@@ -69,13 +69,13 @@ body:not(.editing) .cmap tbody td > span > a {
 	vertical-align: middle;
 }
 
-/*
+
 /* month ruler */
 body:not(.editing) .cmap tfoot td {
 	font-size: .7rem;
 	font-style: italic;
 }
-*/
+
 
 /* block color */
 body:not(.editing) .cmap td.year      a { background: #ECF5F4; }

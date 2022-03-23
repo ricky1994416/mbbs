@@ -35,9 +35,7 @@ body:not(.editing) .cmap table {
 body:not(.editing) .cmap td { padding: 0; }
 body:not(.editing) .cmap table,
 body:not(.editing) .cmap td a{ border: solid 1px #8DD3CB; }
-*/
 body:not(.editing) .cmap td.spc-block { border: none; }
-/*
 
 /* block table */
 body:not(.editing) .cmap tbody td { font-size: .85rem; }

@@ -100,7 +100,7 @@ body:not(.editing) .cmap td.comm      a { background: #8DD3CB; font-weight: bold
 body:not(.editing) .cmap td.jc        a { background: #ECF5F4; }
 body:not(.editing) .cmap td.jca       a { background: #8DD3CB; font-weight: bold; }
 body:not(.editing) .cmap td.jcb       a { background: #8DD3CB; font-weight: bold; }
-body:not(.editing) .cmap td.jcb       a { background: #8DD3CB; font-weight: bold; }
+body:not(.editing) .cmap td.jcc       a { background: #8DD3CB; font-weight: bold; }
 body:not(.editing) .cmap td.sc        a { background: #ECF5F4; }
 body:not(.editing) .cmap td.sca       a { background: #8DD3CB; font-weight: bold; }
 body:not(.editing) .cmap td.scb       a { background: #8DD3CB; font-weight: bold; }

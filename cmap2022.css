@@ -102,6 +102,9 @@ body:not(.editing) .cmap td.jca       a { background: #8DD3CB; font-weight: bold
 body:not(.editing) .cmap td.jcb       a { background: #8DD3CB; font-weight: bold; }
 body:not(.editing) .cmap td.jcb       a { background: #8DD3CB; font-weight: bold; }
 body:not(.editing) .cmap td.sc        a { background: #ECF5F4; }
+body:not(.editing) .cmap td.sca       a { background: #8DD3CB; font-weight: bold; }
+body:not(.editing) .cmap td.scb       a { background: #8DD3CB; font-weight: bold; }
+body:not(.editing) .cmap td.scc       a { background: #8DD3CB; font-weight: bold; }
 body:not(.editing) .cmap td.break     a { background: #C0C0C2; }
 body:not(.editing) .cmap td.spc       a { background: #ECF5F4; }
 body:not(.editing) .cmap td.revision  a { background: #ECF5F4; }

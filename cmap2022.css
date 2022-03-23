@@ -98,6 +98,9 @@ body:not(.editing) .cmap td.ey        a { background: #ECF5F4; }
 body:not(.editing) .cmap td.cfb       a { background: #ECF5F4; }
 body:not(.editing) .cmap td.comm      a { background: #8DD3CB; font-weight: bold;}
 body:not(.editing) .cmap td.jc        a { background: #ECF5F4; }
+body:not(.editing) .cmap td.jca       a { background: #8DD3CB; font-weight: bold; }
+body:not(.editing) .cmap td.jcb       a { background: #8DD3CB; font-weight: bold; }
+body:not(.editing) .cmap td.jcb       a { background: #8DD3CB; font-weight: bold; }
 body:not(.editing) .cmap td.sc        a { background: #ECF5F4; }
 body:not(.editing) .cmap td.break     a { background: #C0C0C2; }
 body:not(.editing) .cmap td.spc       a { background: #ECF5F4; }

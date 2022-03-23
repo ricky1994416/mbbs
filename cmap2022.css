@@ -48,6 +48,8 @@ body:not(.editing) .cmap tbody td > span {
 	height: 100%;
 	position: relative;
 	transition: transform .25s;
+	vertical-align: top;
+
 	/*
 	vertical-align: middle;
 	*/

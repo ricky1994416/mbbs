@@ -99,9 +99,6 @@ body:not(.editing) .cmap td.elective  a { background: #ECF5F4; }
 body:not(.editing) .cmap td.epib      a { background: #ECF5F4; }
 body:not(.editing) .cmap td.cb        a { background: #8DD3CB; font-weight: bold;}
 body:not(.editing) .cmap td.empty       { background: #ECF5F4; font-weight: bold;}
-body:not(.editing) .cmap tr             { border: solid thin; }
-
-
 
 /* table overflow bug (when hover blocks around the edge) */
 @media (min-width: 992px) {

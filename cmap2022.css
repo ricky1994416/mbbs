@@ -94,7 +94,7 @@ body:not(.editing) .cmap td.hnns      a { background: #eff8f3; }
 body:not(.editing) .cmap td.his       a { background: #eff8f3; }
 body:not(.editing) .cmap td.ers       a { background: #eff8f3; }
 body:not(.editing) .cmap td.chinese   a { background: #eff8f3; }
-body:not(.editing) .cmap td.ey        a { background: #eff8f3; }
+body:not(.editing) .cmap td.ey        a { background: #eff8f3; font-weight: bold; }
 body:not(.editing) .cmap td.cfb       a { background: #eff8f3; }
 body:not(.editing) .cmap td.comm      a { background: #cbe6dd; font-weight: bold;}
 body:not(.editing) .cmap td.jc        a { background: #eff8f3; }

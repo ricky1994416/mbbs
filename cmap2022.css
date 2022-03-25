@@ -81,7 +81,7 @@ body:not(.editing) .cmap tfoot td {
 
 
 /* block color */
-body:not(.editing) .cmap td.year      a { background: #05554a; }
+body:not(.editing) .cmap td.year      a { background: #05554a; color: white !important; font-weight: bold;}
 body:not(.editing) .cmap td.iasm      a { background: #eff8f3; }
 body:not(.editing) .cmap td.cprs      a { background: #eff8f3; }
 body:not(.editing) .cmap td.formative a { background: #20b597; color: white !important;}

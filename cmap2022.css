@@ -31,7 +31,7 @@ body:not(.editing) .cmap table {
 	margin: 0 !important;
 	min-width: 600px;
 	width: 100%;
-	border: none;
+	border: border="1";
 }
 body:not(.editing) .cmap td { padding: 0; }
 body:not(.editing) .cmap table,

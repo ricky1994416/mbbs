@@ -1,18 +1,9 @@
 /* list index */
-.ml-auto d-flex {
-  background: orange;
-  color: red;
-}
 .list-group-item.active {
-  background: green;
-}
-.singlebutton {
-  background: yellow;
-  color: blue;
+  background: #357a32;
 }
 .btn:not(:disabled):not(.disabled) {
-  background: pink;
-  color: red;
+  background: #008196;
 }
 
 body:not(.editing) .cmap { list-style-type: none; }

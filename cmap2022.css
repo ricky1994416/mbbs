@@ -122,5 +122,5 @@ body:not(.editing) .cmap td.empty       { background: #eff8f3; font-weight: bold
 }
 .singlebutton {
   background: yellow;
-  color: red
+  color: red;
 }

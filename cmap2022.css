@@ -10,6 +10,10 @@
   background: yellow;
   color: blue;
 }
+.btn btn-primary {
+  background: pink;
+  color: red;
+}
 
 body:not(.editing) .cmap { list-style-type: none; }
 body:not(.editing) .cmap > li {

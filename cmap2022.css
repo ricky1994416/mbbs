@@ -1,6 +1,14 @@
 /* list index */
-.btn btn-primary {
+.singlebutton btn btn-primary {
   background: yellow;
+  color: red;
+}
+.singlebutton.btn btn-primary {
+  background: pink;
+  color: red;
+}
+.singlebutton .btn btn-primary {
+  background: green;
   color: red;
 }
 

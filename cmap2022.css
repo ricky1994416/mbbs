@@ -10,7 +10,7 @@
   background: yellow;
   color: blue;
 }
-.button {
+.btn:not(:disabled):not(.disabled) {
   background: pink;
   color: red;
 }

@@ -121,5 +121,6 @@ body:not(.editing) .cmap td.empty       { background: #eff8f3; font-weight: bold
 	.cmap .table-responsive { overflow: visible; }
 }
 .singlebutton {
-  background-color: yellow;
+  background: yellow;
+  color: red
 }

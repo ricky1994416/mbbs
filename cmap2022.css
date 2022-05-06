@@ -1,4 +1,9 @@
 /* list index */
+.btn btn-primary {
+  background: yellow;
+  color: red;
+}
+
 body:not(.editing) .cmap { list-style-type: none; }
 body:not(.editing) .cmap > li {
 	margin-left: -1rem;
@@ -119,8 +124,4 @@ body:not(.editing) .cmap td.empty       { background: #eff8f3; font-weight: bold
 @media (min-width: 992px) {
 	#section-1 ul.section .activity .no-overflow,
 	.cmap .table-responsive { overflow: visible; }
-}
-.singlebutton {
-  background: yellow;
-  color: red;
 }

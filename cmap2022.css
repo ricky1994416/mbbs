@@ -120,3 +120,8 @@ body:not(.editing) .cmap td.empty       { background: #eff8f3; font-weight: bold
 	#section-1 ul.section .activity .no-overflow,
 	.cmap .table-responsive { overflow: visible; }
 }
+<style>
+#single_button6274793b12dff1 {
+  background-color: yellow;
+}
+</style>

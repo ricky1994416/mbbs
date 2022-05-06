@@ -11,6 +11,10 @@
   background: green;
   color: red;
 }
+.singlebutton {
+  background: yellow;
+  color: red;
+}
 
 body:not(.editing) .cmap { list-style-type: none; }
 body:not(.editing) .cmap > li {

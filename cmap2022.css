@@ -4,12 +4,7 @@
   color: red;
 }
 .list-group-item.active {
-  background: pink;
-  color: black;
-}
-.list-group {
   background: green;
-  color: orange;
 }
 .singlebutton {
   background: yellow;

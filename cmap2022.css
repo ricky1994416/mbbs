@@ -2,7 +2,7 @@
 .list-group-item.active {
   background: #357a32;
 }
-.btn:not(:disabled):not(.disabled) {
+.btn:not(:disabled):not(.disabled).btn-primary {
   background: #008196;
   color: white;
 }

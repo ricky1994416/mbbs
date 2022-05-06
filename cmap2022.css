@@ -4,6 +4,7 @@
 }
 .btn:not(:disabled):not(.disabled) {
   background: #008196;
+  color: white
 }
 
 body:not(.editing) .cmap { list-style-type: none; }

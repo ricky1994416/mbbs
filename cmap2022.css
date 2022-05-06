@@ -5,15 +5,15 @@
 }
 .d-print-none moodle-has-zindex {
   background: pink;
-  color: red;
+  color: black;
 }
 .list-group {
   background: green;
-  color: red;
+  color: orange;
 }
 .singlebutton {
   background: yellow;
-  color: red;
+  color: blue;
 }
 
 body:not(.editing) .cmap { list-style-type: none; }

@@ -3,11 +3,11 @@
   background: yellow;
   color: red;
 }
-.singlebutton.btn btn-primary {
+.d-print-none moodle-has-zindex {
   background: pink;
   color: red;
 }
-.singlebutton .btn btn-primary {
+.list-group {
   background: green;
   color: red;
 }

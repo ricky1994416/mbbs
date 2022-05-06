@@ -3,7 +3,7 @@
   background: yellow;
   color: red;
 }
-.d-print-none moodle-has-zindex {
+.list-group-item.active {
   background: pink;
   color: black;
 }
